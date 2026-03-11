@@ -1,1 +1,2 @@
  branch file.txt
+ edited in new branch first commit 
