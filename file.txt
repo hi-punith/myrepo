@@ -1,2 +1,1 @@
-data in file line one
-EDITING TO CHECK M
+this is first line in master branhc file.txt
